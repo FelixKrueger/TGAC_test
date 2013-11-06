@@ -16,5 +16,5 @@ def main():
 
     print '%d bp total' % total
 
- if __name__ == '__main__':
+if __name__ == '__main__':
     main()
